@@ -26,3 +26,8 @@
 *.exe
 *.out
 *.app
+
+#Backtrace files
+*.bak
+*.BAK
+
